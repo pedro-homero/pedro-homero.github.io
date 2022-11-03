@@ -21,7 +21,8 @@
 title: Pedro Homero
 email: pedro.homero@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Pedro Homero's website (a blog, really). 
+  This is Pedro Homero's website (a blog, really).
+  It has no cookies whatsoever. This website doesn't know who you are, nor does it try to track you or know any information about you at all.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://pedro-homero.github.io
 twitter_username: pedrohomero
