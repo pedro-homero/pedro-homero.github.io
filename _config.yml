@@ -29,7 +29,7 @@ url: https://pedro-homero.github.io
 github_username:  pedro-homero
 
 # Build settings
-theme: no-style-please
+theme: minima
 plugins:
   - jekyll-feed
 
