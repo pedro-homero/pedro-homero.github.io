@@ -6,6 +6,8 @@ categories: misc
 
 ---
 
+
+
 So...
 
 I wanted to create my own website to
