@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm just some guy, it doesn't really matter. Still, I wanted to have a spot to jolt down (and share) some notes, thoughts and ideas and not be dependent on any platform that would make you the product. Hence, this website. 
+I'm just some guy, it doesn't really matter. Still, I wanted to have a spot to jolt down (and share) notes, thoughts and ideas and not be dependent on any platform that would make ***you*** the product. Hence, this website. 
 
 I'm Portuguese but I usually write in English as I've got friends and acquaintances from different cultures and languages - English emcompasses more people.
+
+I'm trying to write as succinctly as I can. I want to be sparse with words.
 
 As I write more posts I'll add more info here on the About page :)
 
