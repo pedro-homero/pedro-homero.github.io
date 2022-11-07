@@ -4,7 +4,7 @@ title: Bio
 permalink: /bio/
 ---
 
-![a picture of Pedro](images/pic.jpg)
+![a picture of Pedro](https://pedrohomero.com/images/pic.jpg)
 
 So you want to know a bit more about me? Ok.
 
