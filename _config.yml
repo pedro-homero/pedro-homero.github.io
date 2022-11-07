@@ -30,7 +30,7 @@ github_username:  pedro-homero
 
 # Build settings
 theme: jekyll-swiss
-theme_color: yellow
+theme_color: orange
 plugins:
   - jekyll-feed
 
