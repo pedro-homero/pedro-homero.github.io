@@ -4,6 +4,8 @@ title: Bio
 permalink: /bio/
 ---
 
+`![a picture of Pedro](pic.jpg)`
+
 So you want to know a bit more about me? Ok.
 
 * :older_man: 47 years old
