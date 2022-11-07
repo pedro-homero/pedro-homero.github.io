@@ -18,5 +18,5 @@ Want to know more? Check my [bio](https://www.pedrohomero.com/bio/).
 
 If you want to share anything I post here (be it text or images), you can do so by following this Creative Commons license:
 
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Pedro Homero's website</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://pedrohomero.com" property="cc:attributionName" rel="cc:attributionURL">Pedro Homero</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://www.pedrohomero.com" rel="dct:source">pedrohomero.com</a>.
+*<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Pedro Homero's website</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://pedrohomero.com" property="cc:attributionName" rel="cc:attributionURL">Pedro Homero</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://www.pedrohomero.com" rel="dct:source">pedrohomero.com</a>.*
