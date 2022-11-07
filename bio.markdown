@@ -4,13 +4,13 @@ title: Bio
 permalink: /bio/
 ---
 
-So you want to know a bit more, is that it? Ok.
+So you want to know a bit more about me? Ok.
 
 * :older_man: 47 years old
 
 * :purple_heart: feminist
 
-* :fist: anti-fascist (and dictatorships in general)
+* :fist: anti-fascist (and all dictatorships in general). I swing between democratic socialism and full-fledged anarchism, depending on my level of hope in humanity.
 
 * :open_hands: secular humanist
 
@@ -26,8 +26,10 @@ So you want to know a bit more, is that it? Ok.
 
 * :rainbow_flag:ally to the queer community (tentatively, queer, as a term, feels to me more encompassing than LGBTQIA+, but I'm open to great arguments otherwise)
 
-* :earth_africa:swinging between believing we're doomed vs. we can still avoid total climate disaster
+* :earth_africa:swinging between believing we're doomed vs. we can still avoid total climate disaster - ask me how I feel today! :upside_down_face:
 
 * :seedling:vegetarian
 
 * :movie_camera::headphones:film and music enthusiast
+
+* :computer:recruiter (check my [LinkedIn](linked.incom/in/pedrohomero) if interested)

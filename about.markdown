@@ -12,6 +12,12 @@ I'm trying to write as succinctly as I can. I want to be sparse with words.
 
 As I write more posts I'll add more info here on the About page :)
 
+
+
+Want to know more? Check my [bio](https://www.pedrohomero.com/bio.html).
+
+
+
 *[For the geeks in the audience, it's hosted on [Github Pages](https://pages.github.com/) and based on [Jekyll](https://jekyllrb.com) (with a neat theme called [Swiss](https://broccolini.net/swiss/)). I write posts with [Markdown](https://en.wikipedia.org/wiki/Markdown) and  then Jekyll converts it to html. It's all very much static, ad-free, cookies- and tracking-free, etc.]*
 
 If you want to share anything I post here (be it text or images), you can do so by following this Creative Commons license:
