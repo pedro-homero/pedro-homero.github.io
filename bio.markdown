@@ -16,22 +16,22 @@ So you want to know a bit more about me? Ok.
 
 * :open_hands: secular humanist
 
-* :boy::boy:father of 2 amazing kids (8 and 10 years old)
+* :boy::boy: father of 2 amazing kids (8 and 10 years old)
 
-* :joy_cat:co-parent for 5 crazy (and cute) cats
+* :joy_cat: co-parent for 5 crazy (and cute) cats
 
-* :people_holding_hands:In a loving and caring consensual non-monogamous relationship (*ToDo - write a post about this*)
+* :people_holding_hands: In a loving and caring consensual non-monogamous relationship (*ToDo - write a post about this*)
 
 * :bike: bycicle riding enthusiast!
 
-* :man:boring cis white male (conscious of all the privilege it entails)
+* :man: boring cis white male (conscious of all the privilege it entails)
 
-* :rainbow_flag:ally to the queer community (tentatively, queer, as a term, feels to me more encompassing than LGBTQIA+, but I'm open to great arguments otherwise)
+* :rainbow_flag: ally to the queer community (tentatively, queer, as a term, feels to me more encompassing than LGBTQIA+, but I'm open to great arguments otherwise)
 
-* :earth_africa:swinging between believing we're doomed vs. we can still avoid total climate disaster - ask me how I feel today! :upside_down_face:
+* :earth_africa: swinging between believing we're doomed vs. we can still avoid total climate disaster - ask me how I feel today! :upside_down_face:
 
-* :seedling:vegetarian
+* :seedling: vegetarian
 
-* :movie_camera::headphones:film and music enthusiast
+* :movie_camera::headphones: film and music enthusiast
 
-* :computer:recruiter (check my [LinkedIn](linked.incom/in/pedrohomero) if interested)
+* :computer: recruiter (check my [LinkedIn](linked.incom/in/pedrohomero) if interested)
