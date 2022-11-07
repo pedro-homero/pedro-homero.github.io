@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Pedro Homero
-email: pedro.homero@gmail.com
+email: pedro.homero at gmail dot com
 description: >- # this means to ignore newlines until "baseurl:"
   This is Pedro Homero's website (a blog, really).
   It has no cookies whatsoever. This website doesn't know who you are, nor does it try to track you or know any information about you at all.
@@ -29,7 +29,7 @@ url: https://pedro-homero.github.io
 github_username:  pedro-homero
 
 # Build settings
-theme: minima
+theme: jekyll-swiss
 plugins:
   - jekyll-feed
 
