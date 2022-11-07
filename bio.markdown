@@ -20,7 +20,7 @@ So you want to know a bit more about me? Ok.
 
 * :joy_cat: co-parent for 5 crazy (and cute) cats
 
-* :people_holding_hands: In a loving and caring consensual non-monogamous relationship (*ToDo - write a post about this*)
+* :heart: In a loving and caring consensual non-monogamous relationship (*ToDo - write a post about this*)
 
 * :bike: bycicle riding enthusiast!
 
