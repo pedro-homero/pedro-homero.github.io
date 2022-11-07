@@ -26,7 +26,7 @@ So you want to know a bit more about me? Ok.
 
 * :man: boring cis white male (conscious of all the privilege it entails)
 
-* :rainbow_flag: ally to the queer community (tentatively, queer, as a term, feels to me more encompassing than LGBTQIA+, but I'm open to great arguments otherwise)
+* :rainbow_flag: ally to the queer community (tentatively, queer, as a term, feels to me more encompassing than LGBTQIA+, but I'm open to great counter arguments)
 
 * :earth_africa: swinging between believing we're doomed vs. we can still avoid total climate disaster - ask me how I feel today! :upside_down_face:
 
