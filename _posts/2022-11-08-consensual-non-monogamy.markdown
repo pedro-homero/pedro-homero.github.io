@@ -82,7 +82,7 @@ Now consider a monogamous romantic relationship, where there's no room for sex o
 
 That's not ideal, is it?
 
-A CN-M relationships may not necessarily ideal for your. They work for those who feel it reflects the way they are. You should not try to force yourself into a CN-M relationship if that's not your cup of tea. 
+A CN-M relationship may not necessarily be ideal for you. It works for those who feel it reflects the way they are. You should not try to force yourself into a CN-M relationship if that's not your cup of tea. 
 
 What you could do - my suggestion - is to try to have your current relationship (and/or future ones) based on transparency and communication. Those two ingredients build respect, and even if you still decide to keep it monogamous, you'll have a much better relationship!
 
