@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Consensual Non-Monogamy"
-date:   2022-11-09 00:30:00 +0000
+date:   2022-11-09 00:35:00 +0000
 tags: cn-m relationships 
 
 ---
