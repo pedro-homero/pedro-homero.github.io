@@ -17,7 +17,7 @@ I wanted to create my own website to
 
 4. allow you the reader to be totally free from ads, tracking or any other privacy violation when reading what I share
 
-5. learn [markdown](https://www.markdownguide.org/)!
+5. learn [markdown](https://www.markdownguide.org/)! :nerd_face:
 
 I also want to train my ability to be succinct. Sharing what I want to say in the least amount of words. 
 It's a 2-way street: I save you, the reader, time, and I focus on the content, instead of letting myself be enamoured by my words.

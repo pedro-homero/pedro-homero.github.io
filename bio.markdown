@@ -20,11 +20,11 @@ So you want to know a bit more about me? Ok.
 
 * :joy_cat: co-parent for 5 crazy (and cute) cats
 
-* :heart: In a loving and caring consensual non-monogamous relationship (*ToDo - write a post about this*)
+* :heart: In a loving and caring [**consensual non-monogamous relationship**]({% post_url 2022-11-08-consensual-non-monogamy %}) 
 
 * :bike: bycicle riding enthusiast!
 
-* :man: boring cis white male (conscious of all the privilege it entails)
+* :man: boring cis white hetero male (conscious of all the privilege it entails)
 
 * :rainbow_flag: ally to the queer community (tentatively, queer, as a term, feels to me more encompassing than LGBTQIA+, but I'm open to great counter arguments)
 
@@ -35,3 +35,5 @@ So you want to know a bit more about me? Ok.
 * :movie_camera::headphones: film and music enthusiast
 
 * :computer: recruiter (check my [LinkedIn](https://www.linkedin.com/in/pedrohomero) if interested)
+
+I haven't implemented a commenting system yet (I'm still trying to see if there's one that is privacy-conscious and free - both as in *libre* as well as in *gratis*) but if you'd like to comment or ask me any questions feel free to reach me via email on `pedro.homero at gmail dot com` (or via social media if we happen to be connected in any of them).
