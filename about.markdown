@@ -14,7 +14,7 @@ As I write more posts I'll add more info here on the About page :)
 
 Want to know more? Check my [bio](https://www.pedrohomero.com/bio/).
 
-*For the geeks in the audience, this website is hosted on [Github Pages](https://pages.github.com/) :link: and based on [Jekyll](https://jekyllrb.com) :link:(with a neat theme called [Swiss](https://broccolini.net/swiss/):link:). I write posts with [Markdown](https://en.wikipedia.org/wiki/Markdown) and  then Jekyll converts it to html. It's all very much static, ad-free, cookies- and tracking-free, etc. > [proof](https://themarkup.org/blacklight?url=pedrohomero.com):link: < *
+For the geeks in the audience, this website is hosted on [Github Pages](https://pages.github.com/):link: and based on [Jekyll](https://jekyllrb.com):link:(with a neat theme called [Swiss](https://broccolini.net/swiss/):link:). I write posts with [Markdown](https://en.wikipedia.org/wiki/Markdown):link: and  then Jekyll converts it to html. It's all very much static, ad-free, cookies- and tracking-free, etc.  [proof](https://themarkup.org/blacklight?url=pedrohomero.com):link: 
 
 External links that take you away from this website are followed by a link emoji - like [this example](https://duckduckgo.com/):link:.
 
