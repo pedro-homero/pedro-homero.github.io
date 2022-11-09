@@ -2,8 +2,10 @@
 layout: post
 title:  "First post"
 date:   2022-11-07 21:15:00 +0000
-categories: misc
+tags: misc
+
 ---
+
 
 So...
 
