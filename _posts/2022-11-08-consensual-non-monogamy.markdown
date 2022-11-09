@@ -58,7 +58,7 @@ Communication and transparency - you've guessed it already - are the ground on w
 
 With these strong pillars, fulfilling an urge (like scratching an itch) will feel good but won't make you question your relationship. In a non-polyamory, open relationship like I prefer, you're simply adding sex with others, and sex is great but it's just a small part of what relationships can be.
 
-Now consider a monogamous romantic relationship, where there's no room for sex outside the couple. It usually includes
+Now consider a monogamous romantic relationship, where there's no room for sex outside the couple. It may include:
 
 * lies
 
