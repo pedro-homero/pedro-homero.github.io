@@ -18,7 +18,7 @@ In many cases, though, people have (sometimes, or many times or all the time) a 
 
 People can try to ignore it or pretend they don't have that urge. Or they can pretend they don't engage in sex with others while doing it, lying to their partners. That's called cheating.
 
-*It doesn't have to be that way*, though. It shouldn't have to.
+***It doesn't have to be that way***, though. It shouldn't have to.
 
 **Consensual non-monogamy** (CN-M for short), also known as Ethical Non-Monogamy, is an umbrella term for different types of relationships where <mark>there is explicit consent for intimate activities with people outside of the relationship.</mark>
 
