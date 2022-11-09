@@ -24,7 +24,7 @@ So you want to know a bit more about me? Ok.
 
 * :bike: bycicle riding enthusiast!
 
-* :man: boring cis white hetero male (conscious of all the privilege it entails)
+* :man: boring cis white hetero male (yet conscious of all the privilege it entails)
 
 * :rainbow_flag: ally to the queer community (tentatively, queer, as a term, feels to me more encompassing than LGBTQIA+, but I'm open to great counter arguments)
 
