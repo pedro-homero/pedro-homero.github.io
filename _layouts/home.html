@@ -46,12 +46,15 @@
         </div>
       </header>
 
-      <div class="container mx-auto px-2 py-4">
+    <div class="container mx-auto px-2 py-4">
+    <ul>
         {% for post in site.posts %}
-          {% include post_block.html %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        {{ post.excerpt }}
+    </li>
         {% endfor %}
-      </div>
-
+    </ul>
     </div>
 
     {% include footer.html %}
