@@ -8,9 +8,9 @@ tags: cn-m relationships
 
 Humans are mammals. Complex, yes, but mammals. 
 
-Most humans feel a need (a desire?) to establish romantic partnerships. (There are [exceptions](https://lgbtqia.fandom.com/wiki/Aromantic_spectrum)).
+Most humans feel a need (a desire?) to establish romantic partnerships. (There are [exceptions](https://lgbtqia.fandom.com/wiki/Aromantic_spectrum):link:).
 
-Also, most humans have sexual drive (here too [exceptions](https://lgbtqia.fandom.com/wiki/Asexual_spectrum) exist).
+Also, most humans have sexual drive (here too [exceptions](https://lgbtqia.fandom.com/wiki/Asexual_spectrum):link: exist).
 
 In most cases, people on a romantic partnership have mutual sexual desire; they love each other and want to have sex with each other.
 
@@ -88,11 +88,11 @@ What you could do - my suggestion - is to try to have your current relationship 
 
 Here are some resources if you want to know more about Consensual Non-Monogamy:
 
-* a [two-page PDF](https://www.apadivisions.org/division-44/resources/consensual-non-monogamy.pdf) that explains it all really well
+* a [two-page PDF](https://www.apadivisions.org/division-44/resources/consensual-non-monogamy.pdf):link: that explains it all really well
 
-* a great [online resource](https://www.mindbodygreen.com/articles/ethical-non-monogamy-guide)
+* a great [online resource](https://www.mindbodygreen.com/articles/ethical-non-monogamy-guide):link:
 
-* [different reasons](https://www.psychologytoday.com/us/blog/the-myths-sex/202106/6-things-draw-people-consensual-nonmonogamy) why people are drawn to CN-M
+* [different reasons](https://www.psychologytoday.com/us/blog/the-myths-sex/202106/6-things-draw-people-consensual-nonmonogamy):link: why people are drawn to CN-M
 
 I haven't implemented a commenting system yet (I'm still trying to see if there's one that is privacy-conscious and free - both as in *libre* as well as in *gratis*) but if you'd like to comment or ask me any questions about this topic feel free to reach me via email on `pedro.homero at gmail dot com` (or via social media if we happen to be connected in any of them).
 
