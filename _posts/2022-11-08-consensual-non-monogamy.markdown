@@ -20,7 +20,7 @@ People can try to ignore it or pretend they don't have that urge. Or they can pr
 
 *It doesn't have to be that way*, though. It shouldn't have to.
 
-**Consensual non-monogamy** (CN-M for short), also known as Ethical Non-Monogamy, is an umbrella term that for different types of relationships where <mark>there is explicit consent for intimate activities with people outside of the relationship.</mark>
+**Consensual non-monogamy** (CN-M for short), also known as Ethical Non-Monogamy, is an umbrella term for different types of relationships where <mark>there is explicit consent for intimate activities with people outside of the relationship.</mark>
 
 In some cases that openness may include additional romantic partnerships (like polyamory), sexual and intimate interactions but not romantic ones (like open relationships) or other forms of pre-defined, mutually respectful agreements between the partners. Whatever it is, it has to come from explicit mutual agreement.
 
