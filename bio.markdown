@@ -18,7 +18,7 @@ So you want to know a bit more about me? Ok.
 
 * :boy::boy: father of 2 amazing kids (8 and 10 years old)
 
-* :joy_cat: co-parent for 5 crazy (and cute) cats
+* :joy_cat::joy_cat::joy_cat::joy_cat::joy_cat: co-parent for 5 crazy (and cute) cats
 
 * :heart: In a loving and caring [**consensual non-monogamous relationship**]({% post_url 2022-11-08-consensual-non-monogamy %}) 
 
