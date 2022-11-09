@@ -34,6 +34,6 @@ So you want to know a bit more about me? Ok.
 
 * :movie_camera::headphones: film and music enthusiast
 
-* :computer: recruiter (check my [LinkedIn](https://www.linkedin.com/in/pedrohomero) if interested)
+* :computer: recruiter (check my [LinkedIn](https://www.linkedin.com/in/pedrohomero) :link: if interested)
 
 I haven't implemented a commenting system yet (I'm still trying to see if there's one that is privacy-conscious and free - both as in *libre* as well as in *gratis*) but if you'd like to comment or ask me any questions feel free to reach me via email on `pedro.homero at gmail dot com` (or via social media if we happen to be connected in any of them).
