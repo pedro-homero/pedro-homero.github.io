@@ -18,7 +18,7 @@ In many cases, though, people have (sometimes, or many times or all the time) a 
 
 People can try to ignore it or pretend they don't have that urge. Or they can pretend they don't engage in sex with others while doing it, lying to their partners. That's called cheating.
 
-*It doesn't have to be that way*, though. It shouldn't have to.
+***It doesn't have to be that way***, though. It shouldn't have to.
 
 **Consensual non-monogamy** (CN-M for short), also known as Ethical Non-Monogamy, is an umbrella term for different types of relationships where <mark>there is explicit consent for intimate activities with people outside of the relationship.</mark>
 
@@ -58,7 +58,7 @@ Communication and transparency - you've guessed it already - are the ground on w
 
 With these strong pillars, fulfilling an urge (like scratching an itch) will feel good but won't make you question your relationship. In a non-polyamory, open relationship like I prefer, you're simply adding sex with others, and sex is great but it's just a small part of what relationships can be.
 
-Now consider a monogamous romantic relationship, where there's no room for sex outside the couple. It usually includes
+Now consider a monogamous romantic relationship, where there's no room for sex outside the couple. It may include:
 
 * lies
 
@@ -82,7 +82,7 @@ Now consider a monogamous romantic relationship, where there's no room for sex o
 
 That's not ideal, is it?
 
-A CN-M relationships may not necessarily ideal for your. They work for those who feel it reflects the way they are. You should not try to force yourself into a CN-M relationship if that's not your cup of tea. 
+A CN-M relationship may not necessarily be ideal for you. It works for those who feel it reflects the way they are. You should not try to force yourself into a CN-M relationship if that's not your cup of tea. 
 
 What you could do - my suggestion - is to try to have your current relationship (and/or future ones) based on transparency and communication. Those two ingredients build respect, and even if you still decide to keep it monogamous, you'll have a much better relationship!
 
