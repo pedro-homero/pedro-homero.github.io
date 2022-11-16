@@ -8,7 +8,7 @@ tag: climate change
 
 There's this line that keeps popping up in my head lately:
 
-<mark>***The world is coming to an end, Mal...***</mark>
+***The world is coming to an end, Mal...***
 
 It's spoken by Woody Harrelson's character, Mickey, to Mallory (Mal), played by Juliette Lewis, in Oliver Stone's 1994 ***Natural Born Killers*** ([wikipedia entry]((https://en.wikipedia.org/wiki/Natural_Born_Killers)) :link:), just before the amazing *Sweet Jane*, a song by Cowboy Junkies, starts playing. You can see the clip on [youtube]((https://www.youtube.com/watch?v=tYqE5cxJqXE)) :link:.
 
@@ -38,7 +38,7 @@ In any case, the question is "how bad will it become?" and not "will it be bad?"
 
 **Resources**
 
-* Mark Lynas' Six Degrees: Our Future on a Hotter Planet ([wikipedia](https://en.wikipedia.org/wiki/Six_Degrees:_Our_Future_on_a_Hotter_Planet) :link:|[libgen](http://libgen.is/search.php?req=six+degrees+lynas&open=0&res=25&view=simple&phrase=1&column=def) :link: ) is a great primer on the subject. It's both terrifying (content) and pleasant (form). There was a TV movie made about it and you can watch it on [youtube](https://www.youtube.com/watch?v=EU5tUY3W3WI) :link: as well.
+* Mark Lynas' Six Degrees: Our Future on a Hotter Planet ([wikipedia](https://en.wikipedia.org/wiki/Six_Degrees:_Our_Future_on_a_Hotter_Planet) :link:, [libgen](http://libgen.is/search.php?req=six+degrees+lynas&open=0&res=25&view=simple&phrase=1&column=def) :link: ) is a great primer on the subject. It's both terrifying (content) and pleasant (form). There was a TV movie made about it and you can watch it on [youtube](https://www.youtube.com/watch?v=EU5tUY3W3WI) :link: as well.
 
 * Mark  updated that book in April 2020. He called the new version *Our Final Warning: Six Degrees of Climate Emergency* ([libgen](http://libgen.is/search.php?req=Our+Final+Warning+lynas&open=0&res=25&view=simple&phrase=1&column=def) :link:). I haven't read it yet but will soon.
 
