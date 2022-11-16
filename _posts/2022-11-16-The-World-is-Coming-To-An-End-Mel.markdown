@@ -10,7 +10,7 @@ There's this line that keeps popping up in my head lately:
 
 ***The world is coming to an end, Mal...***
 
-It's spoken by Woody Harrelson's character, Mickey, to Mallory (Mal), played by Juliette Lewis, in Oliver Stone's 1994 ***Natural Born Killers*** ([wikipedia entry](https://en.wikipedia.org/wiki/Natural_Born_Killers)) :link:), just before the amazing *Sweet Jane*, a Velvet Underground cover done by Cowboy Junkies, starts playing. You can see the clip on [youtube](https://www.youtube.com/watch?v=tYqE5cxJqXE) :link:.
+It's spoken by Woody Harrelson's character, Mickey, to Mallory (Mal), played by Juliette Lewis, in Oliver Stone's 1994 ***Natural Born Killers*** ([wikipedia entry](https://en.wikipedia.org/wiki/Natural_Born_Killers)) :link:), just as the amazing *Sweet Jane*, a Velvet Underground cover done by Cowboy Junkies, starts playing. You can see the clip on [youtube](https://www.youtube.com/watch?v=tYqE5cxJqXE) :link:.
 
 (The movie, by the way, is great, and I highly recommend it. It was a formative film for me and my buddies back in our early 20's)
 
