@@ -44,8 +44,5 @@ In any case, the question is "how bad will it become?" and not "will it be bad?"
 
 * Not wanting to come out as a fanboi, but failing at that, let me also recommend Mark's *Nuclear 2.0: Why A Green Future Needs Nuclear Power* book ([libgen](http://libgen.is/search.php?req=Nuclear+Why+A+Green+Future+Needs+Nuclear+Power&open=0&res=25&view=simple&phrase=1&column=def) :link:). It's from 2013 but it still stands in its defence of the need to use nuclear power as a main energy source for the world. In it he covers the usual criticisms that are levelled at the technology.
 
-
-
 **Update:** the line is actually
-
 <mark>Whole world's coming to an end, Mal.</mark>
