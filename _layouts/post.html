@@ -16,3 +16,11 @@ layout: default
 <div class="container mx-auto px-2 py-2 clearfix">
   {% include previous-next.html %}
 </div>
+
+<!-- Begin Comments -->
+{% if page.comments != false %}
+  <div id="comments">
+    {% include comments.html %}
+    </div>
+{% endif %}
+<!-- End Comments -->
