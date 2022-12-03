@@ -13,14 +13,15 @@ layout: default
 
 </article>
 
-<div class="container mx-auto px-2 py-2 clearfix">
-  {% include previous-next.html %}
-</div>
 
 <!-- Begin Comments -->
 {% if page.comments != false %}
-  <div id="comments">
+  <div clas="container mx-auto px-2 py-2 clearfix" id="comments">
     {% include comments.html %}
     </div>
 {% endif %}
 <!-- End Comments -->
+
+<div class="container mx-auto px-2 py-2 clearfix">
+  {% include previous-next.html %}
+</div>
