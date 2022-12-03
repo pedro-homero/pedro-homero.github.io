@@ -20,9 +20,11 @@
     {{ include.message | strip_html | markdownify | replace: '<a href="http', '<a rel="ugc nofollow" target="_blank" href="http' }}
   </div>
 
+<!--
   <div class="comment__meta">
     <a rel="nofollow" class="comment__reply-link" onclick="return addComment.moveForm('{{ comment_id }}', 'respond', '{{ page.slug }}', '{{ include.uid }}')">↪&#xFE0E; Reply to {{ include.name }}</a>
   </div>
+-->
 </article>
 
   {%- capture this_uid %}{{ include.uid }}{% endcapture %}
