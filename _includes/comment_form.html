@@ -1,4 +1,6 @@
-<form class="js-form form mx-auto px-2 py-2" method="post" action="{{ site.staticman_url }}">
+<iframe name="dummyframe" id="dummyframe" style="display: none;"></iframe>
+
+<form class="js-form form mx-auto px-2 py-2" method="post" target="dummyframe" action="{{ site.staticman_url }}">
   <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
   <input type="hidden" name="options[parent]" value="{{ page.url | absolute_url }}">
   <input type="hidden" id="comment-replying-to-uid" name="fields[replying_to_uid]" value="">
