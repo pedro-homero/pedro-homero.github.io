@@ -27,7 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://pedro-homero.github.io
 # twitter_username: pedrohomero
 github_username:  pedro-homero
-staticman_url: https://3826-2001-818-e2b6-b900-ec06-13-1374-8c82.eu.ngrok.io/v2/entry/pedro-homero/pedro-homero.github.io/main/comments
+staticman_url: https://1aab-2001-818-e2b6-b900-f4c0-b6ec-2219-6546.eu.ngrok.io/v2/entry/pedro-homero/pedro-homero.github.io/main/comments
 # Build settings
 theme: jekyll-swiss
 theme_color: orange
