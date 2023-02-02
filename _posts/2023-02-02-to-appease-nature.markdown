@@ -6,7 +6,7 @@ tags: film
 
 ---
 
-## To appease nature - the concept of natural in The Wicker Man (1973)
+To appease nature - the concept of natural in The Wicker Man (1973)
 
 A word to the wise - this article does not demand but strongly suggest the viewing of the movie [The Wicker Man (1973)](https://www.imdb.com/title/tt0070917/) :link: - not to be confused with the Nicholas Cage ~~abomination~~ remake - so as to not be upset by spoilers.
 
@@ -60,8 +60,6 @@ All in all, each person will see the film through the filters they placed in fro
 
 <a name="1">1</a>: This hypothesis is confirmed on the novelisation of the film, written and published after the release of the movie. Hardy, Robin and Shaffer, Anthony, The Wicker Man (Crown, 1978).  
 [click here](#1top) to go back to the text  
-
-
 
 <a name="2">2</a>: The film was very well received when shown, prior to its release, to religious authorities from different Abrahamic creeds. This viewing was an attempt to prevent any religious sensitivity issues.  
 [click here](#2top) to go back to the text
