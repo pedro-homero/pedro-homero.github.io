@@ -6,7 +6,7 @@ tags: film
 
 ---
 
-To appease nature - the concept of natural in The Wicker Man (1973)
+**To appease nature - the concept of natural in The Wicker Man (1973)**
 
 A word to the wise - this article does not demand but strongly suggest the viewing of the movie [The Wicker Man (1973)](https://www.imdb.com/title/tt0070917/) :link: - not to be confused with the Nicholas Cage ~~abomination~~ remake - so as to not be upset by spoilers.
 
