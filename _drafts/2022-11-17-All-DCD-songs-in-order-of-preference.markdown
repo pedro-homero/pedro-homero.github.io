@@ -34,11 +34,11 @@ Before actually listing the songs, here's a couple of caveats:
 
 * bands are and should always be free to go where their creativity takes them; if a given listener dislikes something, that's their problem, not the band's.
 
-* this list is a snapshot of my views today; if I had done it a month ago or 2 years down the road, it would not be the same.
+* this list is a snapshot of my views today; if I had done it a month ago or 2 years down the road, it would probably not be the same.
 
-* whenever you read something like "this is good" or "this is bad", please mentally add "In my opinion, " before that.
+* whenever you read something like "this is good" or "this is bad", please mentally add "In Pedro's opinion, " before that.
 
-* I tried to include every DCD song that was officially released (even if only on live albums or compilations) plus a few unreleased songs available on a bootleg I used to own (and [is available on youtube](https://www.youtube.com/watch?v=mLu8zqKlOJA) :link:). If there's more out there and I missed them, let me know, please (for now via email - `pedro dot homero at gmail dot com` , eventually via the comment system that this website should soon have!).
+* I tried to include every DCD song that was officially released (even if only on live albums or compilations) plus a few unreleased songs available on a bootleg I used to own (and that [is available on youtube](https://www.youtube.com/watch?v=mLu8zqKlOJA) :link:). If there's more out there and I missed them, let me know, please on a comment at the bottom of this page.
 
 * I did not include songs that were purely released as part of Brendan's or Lisa's solo projects, but I did include those solo pieces that they've played live (and released them in official live albums) as Dead Can Dance, like *Sanvean*, *American Dreaming*, *Hymn for the Fallen* (aka Sleep), etc.
 
@@ -61,7 +61,7 @@ This song was made available on CD-single included with the programme book durin
 
 **\#124 - Sloth - Dead Can Dance (1981–1998) (2001)** [<img src="https://pedrohomero.com/images/youtube.png">](https://www.youtube.com/watch?v=BRFLW7r95Lk)
 
-Text
+Meh. 
 
 **\#123 - Hymn for the Fallen - Selections from North America 2005 (2022)** [<img src="https://pedrohomero.com/images/spotify.png">](https://open.spotify.com/track/7d1rnhFpDFoMrYxiBZtGN9?si=d92c39492a044053) [<img src="https://pedrohomero.com/images/youtube.png">](https://www.youtube.com/watch?v=DkFWUF86cvA)
 
