@@ -8,7 +8,7 @@ tags: film
 
 To appease nature - the concept of natural in The Wicker Man (1973)
 
-A word to the wise - this article does not demand but strongly suggest the viewing of the movie [The Wicker Man (1973)](https://www.imdb.com/title/tt0070917/) :link: - not to be confused with the Nicholas Cage ~~abomination~~ remake - so as to not be upset by spoilers.
+A word to the wise - this article does not demand but strongly suggests the viewing of the movie [The Wicker Man (1973)](https://www.imdb.com/title/tt0070917/) :link: - not to be confused with the Nicholas Cage ~~abomination~~ remake - so as to not be upset by spoilers.
 
 The Wicker Man (TWM) is a film that stands out. It's not an experimental film - it has a narrative, a (robust) script, professional actors, editing, the works. Its difference lies in how it breaks away from the hard boundaries of film genres and toys with us, from the first few scenes all the way to the climatic end. We'll come to that later.
 
@@ -40,7 +40,7 @@ The plan went too well, perhaps: his son and seemingly moreover his grandson, th
 
 One would imagine, at the very least due to statistical chance, that a given agricultural season would be bad, with little to no harvest. Sooner or later, the cultivars used would fail. The locals, seduced into forgetting Christianism in favour of Paganism, believed that the old gods were bringing forth bountiful crops. If these fail, only one conclusion can be arrived at: the sacrifices offered the previous year were insufficient and another level on the animal ladder must be used, passing a barrier never before crossed - the sacrifice of a human life.
 
-It is quite possible that the original Lord Summerisle had total confidence in his vegetable varieties and did not feat that a day would come in which he would have to deal with that darker side of this religion. His grandson, on the other hand, will have to control the situation, looking for a solution within Paganism, for only a Pagan solution will allow him to maintain the island's status quo. Regardless of the existence of these old gods and of Summerisle's belief in them, the sacrifice must be made - someone will have to die - and it has to work, otherwise the future of the island is to be like that of their neighbours, reduced to half a dozen sheep herders, as hungry as their livestock, whilst the rest of the inhabitants fled to the mainland.
+It is quite possible that the original Lord Summerisle had total confidence in his vegetable varieties and did not fear that a day would come in which he would have to deal with that darker side of this religion. His grandson, on the other hand, will have to control the situation, looking for a solution within Paganism, for only a Pagan solution will allow him to maintain the island's status quo. Regardless of the existence of these old gods and of Summerisle's belief in them, the sacrifice must be made - someone will have to die - and it has to work, otherwise the future of the island is to be like that of their neighbours, reduced to half a dozen sheep herders, as hungry as their livestock, whilst the rest of the inhabitants fled to the mainland.
 
 Of course, in order for the sacrifice to work, that is, for the gods to be satisfied and allow the next crop to be bountiful, it has to be perfect. The victim will have to be the most adequate one can find.
 
