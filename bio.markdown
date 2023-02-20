@@ -35,5 +35,3 @@ So you want to know a bit more about me? Ok.
 * :movie_camera::headphones: film and music enthusiast
 
 * :computer: recruiter (check my [LinkedIn](https://www.linkedin.com/in/pedrohomero) :link: if interested)
-
-* 
