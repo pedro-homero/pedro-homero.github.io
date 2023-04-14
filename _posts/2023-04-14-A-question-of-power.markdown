@@ -6,7 +6,7 @@ tags: power, feminism, anarchism
 
 ---
 
-# A question of power
+A question of power
 
 These last few days a case involving academia, a well-known and generally well-respected (but we'll get onto that below) social sciences professor, and sexual assault on students is making a splash in Portugal, with echoes coming in from Latin America.
 
