@@ -28,7 +28,7 @@ Further below, the article adds:
 
 This means... he's supposed to be *one of us*, that is, someone on the left, someone who is theoretically a humanist, a feminist, an anti-imperialist. If these cases of sexual assault happened, as well as the new cases being reported (and the vast, vast majority of cases are real, so you can stop the "what if it's just a vendetta?" internal dialog), then this situation is a great illustration of what I like to call *the perversion of power*. 
 
-#### The problem
+### The problem
 
 You see, power is a real problem. Once someone gets some amount of power, power starts *getting* them. It corrodes them and it makes them conveniently forget and make excuses for behaving in a way that they *theoretically*  oppose. It is no surprise, therefore, that feminist men, when in a position of power, sexually assault, groom or exert uncalled-for domination over women or other non-males. It shouldn't surprise us, as well, if an anti-imperialist scholar steals sociological concepts from indigenous authors, as was the case with Boaventura de Sousa Santos. (more details at the bottom of this article).
 
