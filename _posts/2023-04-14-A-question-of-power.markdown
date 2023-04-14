@@ -1,9 +1,10 @@
-```yaml
+---
 layout: post
-title:  "A wuestion of power"
-date:   2023-04-14 21:30:00 +0000
-tags: power, feminism, anarchism
-```
+title:  "A question of power"
+date:   2023-04-14 21:31:00 +0000
+tags: film
+
+---
 
 # A question of power
 
