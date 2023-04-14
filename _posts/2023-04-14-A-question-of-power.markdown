@@ -6,10 +6,6 @@ tags: power, feminism, anarchism
 
 ---
 
-Power breeds oppression. Here's a recent example.
-
-# A question of power
-
 These last few days a case involving academia, a well-known and generally well-respected (but we'll get onto that below) social sciences professor, and sexual assault on students is making a splash in Portugal, with echoes coming in from Latin America.
 
 The gist of it is fairly simple to summarise: an international book titled <mark>Sexual Misconduct in Academia - Informing an Ethics of Care in the University</mark>  (edited by Erin Pritchard and Delyth Edwards) includes a chapter written by three students (one post-doctorate, two doctorates) that were at a certain time in their academical careers at CES (Centro de Estudos Sociais - Centre for Social Studies) at Coimbra University, in Portugal. The three of them realised they were not alone in being affected by sexual assault from said professor (and apparently from an assistant of his as well) when they saw graffiti on the walls of the institution, calling for the professor's expulsion and the sentence "we all know". In Portuguese, "we" can be either masculine or feminine, and it was the latter, meaning "we (females) all know".
