@@ -40,6 +40,12 @@ Since power corrupts and erodes, only vigilance can stop its effects. There need
 
 Without it, *allies* with power become predators, and labels mean nothing. 
 
+
+
+**UPDATE:** [A tv piece from RTP](https://www.rtp.pt/play/p11144/e685449/a-prova-dos-factos) (Portuguese national TV) adds more data from members of CES that wish to remain anonymous out of fear. It's becoming increasingly clear that the thesis of "neoliberal conspiracy and vendetta against professors and their institution" is a smear campaign, so common in cases of sexual abuse.
+
+
+
 ### Notes
 
 * The [book](https://www.routledge.com/Sexual-Misconduct-in-Academia-Informing-an-Ethics-of-Care-in-the-University/Pritchard-Edwards/p/book/9781032277516) mentioned in this article can be found on [libgen](http://libgen.is/book/index.php?md5=F4119BB3798A7A9F60023BA57CC86E5F). The relevant chapter, *The walls spoke when no one else would - Autoethnographic notes on sexual-power gatekeeping within avant-garde academia*, starts on page 208.
