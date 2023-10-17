@@ -10,7 +10,7 @@ So you want to know a bit more about me? Ok.
 
 * :older_man: 48 years old
 
-* :purple_heart: feminist
+* :purple_heart: feminist (trans-inclusive)
 
 * :fist: anti-fascist (and all dictatorships in general). I swing between democratic socialism and full-fledged anarchism, depending on my level of hope in humanity.
 
@@ -22,11 +22,11 @@ So you want to know a bit more about me? Ok.
 
 * :heart: In a loving and caring [**consensual non-monogamous relationship**]({% post_url 2022-11-08-consensual-non-monogamy %}) 
 
-* :bike: bycicle riding enthusiast!
+* :bike: bicycle riding enthusiast!
 
 * :man: boring cis white hetero male (yet conscious of all the privilege it entails)
 
-* :rainbow_flag: ally to the queer community (tentatively, queer, as a term, feels to me more encompassing than LGBTQIA+, but I'm open to great counter arguments)
+* :rainbow_flag: ally to the queer community (tentatively, queer, as a term, feels to me more encompassing than LGBTQIA+, but I'm open to great counter-arguments)
 
 * :earth_africa: swinging between believing we're doomed vs. we can still avoid total climate disaster - ask me how I feel today! :upside_down_face:
 
