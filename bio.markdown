@@ -8,7 +8,7 @@ permalink: /bio/
 
 So you want to know a bit more about me? Ok.
 
-* :older_man: 47 years old
+* :older_man: 48 years old
 
 * :purple_heart: feminist
 
