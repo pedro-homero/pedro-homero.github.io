@@ -8,15 +8,15 @@ permalink: /bio/
 
 So you want to know a bit more about me? Ok.
 
-* :older_man: 48 years old
+* :older_man: 49 years old
 
 * :purple_heart: feminist (trans-inclusive)
 
-* :fist: anti-fascist (and all dictatorships in general). I swing between democratic socialism and full-fledged anarchism, depending on my level of hope in humanity.
+* :fist: anti-fascist (and all dictatorships in general). Anarchist.
 
 * :open_hands: secular humanist
 
-* :boy::boy: father of 2 amazing kids (9 and 11 years old)
+* :boy::boy: father of 2 amazing kids (10 and 12 years old)
 
 * :joy_cat::joy_cat::joy_cat::joy_cat::joy_cat: co-parent for 5 crazy (and cute) cats
 
