@@ -16,7 +16,7 @@ So you want to know a bit more about me? Ok.
 
 * :open_hands: secular humanist
 
-* :boy::boy: father of 2 amazing kids (10 and 12 years old)
+* :boy::boy: father of 2 amazing kids (13 and 11 years old)
 
 * :joy_cat::joy_cat::joy_cat::joy_cat::joy_cat: co-parent for 5 crazy (and cute) cats
 
