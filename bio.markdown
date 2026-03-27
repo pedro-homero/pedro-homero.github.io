@@ -8,7 +8,7 @@ permalink: /bio/
 
 So you want to know a bit more about me? Ok.
 
-* :older_man: 49 years old
+* :older_man: 50 years old
 
 * :purple_heart: feminist (trans-inclusive)
 
@@ -16,7 +16,7 @@ So you want to know a bit more about me? Ok.
 
 * :open_hands: secular humanist
 
-* :boy::boy: father of 2 amazing kids (13 and 11 years old)
+* :boy::boy: father of 2 amazing kids (14 and 12 years old)
 
 * :joy_cat::joy_cat::joy_cat::joy_cat::joy_cat: co-parent for 5 crazy (and cute) cats
 
