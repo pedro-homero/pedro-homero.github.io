@@ -2,7 +2,7 @@
 layout: post
 title:  "Colonialism as a disease"
 date:   2026-04-18 02:10:00 +0000
-tags:  colonialism
+tag:  colonialism
 
 ---
 
