@@ -28,9 +28,9 @@ So you want to know a bit more about me? Ok.
 
 * :rainbow_flag: ally to the queer community (tentatively, queer, as a term, feels to me more encompassing than LGBTQIA+, but I'm open to great counter-arguments)
 
-* :earth_africa: swinging between believing we're doomed vs. we can still avoid total climate disaster - ask me how I feel today! :upside_down_face:
+* :earth_africa: ~~swinging between believing we're doomed vs. we can still avoid total climate disaster - ask me how I feel today~~! You know what? I've become a full-fledged collapsnick. We've passed the point of no-return. :shrug:
 
-* :seedling: vegetarian
+* :seedling: vegetarian (ex-vegan, slowly considering going back to it)
 
 * :movie_camera::headphones: film and music enthusiast
 
