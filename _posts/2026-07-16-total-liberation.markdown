@@ -1,9 +1,10 @@
-```yaml
+---
 layout: post
-title:  "Total Liberation"
-date:   2026-07-16 17:42:00 +0000
-tags: 
-```
+title:  "Total liberation"
+date:   2026-07-17 18:42:00 +0000
+tag: 
+
+---
 
 Three weeks ago, and after 22 years, I became vegan again.
 
