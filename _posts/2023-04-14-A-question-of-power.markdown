@@ -16,7 +16,7 @@ a) the accused rejected the accusations, said he was being *canceled*, and that 
 
 b) other cases emerged; once someone speaks up it empowers other victims/survivors to talk about their own cases.
 
-To give you some context: this professor is, as [Wikipedia](https://en.wikipedia.org/wiki/Boaventura_de_Sousa_Santos) tells us:
+To give you some context: this professor is, as [Wikipedia](https://en.wikipedia.org/wiki/Boaventura_de_Sousa_Santos) :link: tells us:
 
 *a sociologist, Professor emeritus at the School of Economics at the University of Coimbra, Distinguished Legal Scholar at the University of Wisconsin-Madison Law School, Global Legal Scholar at the University of Warwick and Director Emeritus of the Centre for Social Studies (CES) at the University of Coimbra. A Marxist, outspoken sympathizer and avowed supporter of the Bloco de Esquerda party, he is regarded as one of the most prominent Portuguese living left-wing intellectuals.*
 
@@ -42,7 +42,7 @@ Without it, *allies* with power become predators, and labels mean nothing.
 
 
 
-**UPDATE:** [A tv piece from RTP](https://www.rtp.pt/play/p11144/e685449/a-prova-dos-factos) (Portuguese national TV) adds more data from members of CES that wish to remain anonymous out of fear. It's becoming increasingly clear that the thesis of "neoliberal conspiracy and vendetta against professors and their institution" is a smear campaign, so common in cases of sexual abuse.
+**UPDATE:** [A tv piece from RTP](https://www.rtp.pt/play/p11144/e685449/a-prova-dos-factos):link: (Portuguese national TV) adds more data from members of CES that wish to remain anonymous out of fear. It's becoming increasingly clear that the thesis of "neoliberal conspiracy and vendetta against professors and their institution" is a smear campaign, so common in cases of sexual abuse.
 
 
 
