@@ -31,6 +31,7 @@ Animal liberation, the third arm of total liberation, follows the same logic. I 
 
 ---
 
+
 If you're unfamiliar with the definition of veganism, here it goes, straight from The Vegan Society (which I also visited back in 1996!):
 
 > *Veganism is a philosophy and way of living which seeks to exclude—as
