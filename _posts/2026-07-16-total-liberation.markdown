@@ -1,17 +1,16 @@
----
+```yaml
 layout: post
 title:  "Total Liberation"
-date:   2026-07-17 18:42:00 +0000
+date:   2026-07-16 17:42:00 +0000
 tags: 
-
----
+```
 
 Three weeks ago, and after 22 years, I became vegan again.
 
 Let's go step by step. In 1992, my friend Joaquim Pedro showed me this scruffy-looking punk 'zine from the UK. It had an article about animal rights, and a many-times-photocopied image of pigs in an industrial pen. The text, but especially that image, those eyes that seemed to be looking straight at mine, were stuck in our adolescent minds forever. I wonder if he still has that zine! (will ask him and report back).
 
 By 1994, I was finally at a place where I could become vegetarian. Also, I had been reading up a lot of stuff on this brand new thing called the internet, learning all I could from pages like the [Animal Rights FAQ](https://www.animal-rights.com/faqfile.html) and the Veganism FAQ (I couldn't find the one I printed out and read from back to back, but here's [a decent one](https://www.veganeasy.org/resources/vegan-faqs/)).
-It soon became pretty clear to me that the reason why any animal (including humans) should be free from oppression - the capacity to suffer - demands, if we are being logical about it, not only the end of all unnecessary suffering of sentient beings (sentient = that can feel) but even the "usage" of said being. To just, whenever possible, leave them alone - that about sums it. And I mulled over it, and by 1995 I became vegan. 
+It soon became pretty clear to me that the reason why any animal (including humans) should be free from oppression - the capacity to suffer - demands, if we are being logical about it, not only the end of all unnecessary suffering of sentient beings (sentient = that can feel) but even the "usage" of said being. To just, whenever possible, leave them alone - that about sums it. And I mulled over it, and by 1995 I became vegan.
 
 Then nine years after, by 2004, I was at a point in my life in which I was feeling I was making one too many sacrifices. I was in a monogamic relationship, but feeling that [wasn't really me]({% post_url 2022-11-08-consensual-non-monogamy %}) and I was craving all the egg-based pastries of the past, as well as cheese on pizza. So, I folded. I half-joked about it, saying that either monogamy or veganism had to be dropped, and I chose to drop the ethical choice, lapsing because of cravings and relationship pressure (which were probably more in my head than anything).
 Mind you, in the 90s and early 00s, it was A LOT harder to be vegan than it is now. I went on an interrail in 1996 to the British Isles and went down to Brighton specifically to buy Doc Martens boots from The Vegetarian Shoes! Also, food choices were a lot more limited, and outside of Lisbon and Porto there were hardly any vegetarian restaurants (let alone any vegan one).
@@ -20,7 +19,7 @@ So time passed, and the 00s became the 10s and the 10s became the 20s. All this 
 
 Earlier this year - I guess about 6 months ago, or so - I told my partner that I would become vegan again, sometime in the near future. And so it happened, 22 years after I lapsed.
 
-I guess the reason why I could no longer maintain a barrier between what I believed and how I was (not) living it, was the fact that I kept thinking about the concept of [total liberation](https://en.wikipedia.org/wiki/Total_liberation). 
+I guess the reason why I could no longer maintain a barrier between what I believed and how I was (not) living it, was the fact that I kept thinking about the concept of [total liberation](https://en.wikipedia.org/wiki/Total_liberation).
 
 I'm an anarchist because I don't believe in (and oppose) any form of oppression between humans (as individuals and societies) - even if I too oppress others (but I try not to!).
 
