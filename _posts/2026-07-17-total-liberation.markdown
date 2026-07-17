@@ -8,25 +8,33 @@ tags:
 
 Three weeks ago, and after 22 years, I became vegan again.
 
-Let's go step by step. In 1992, my friend Joaquim Pedro showed me this scruffy-looking punk 'zine from the UK. It had an article about animal rights, and a many-times-photocopied image of pigs in an industrial pen. The text, but especially that image, was stuck in our adolescent minds forever.
+Let's go step by step. In 1992, my friend Joaquim Pedro showed me this scruffy-looking punk 'zine from the UK. It had an article about animal rights, and a many-times-photocopied image of pigs in an industrial pen. The text, but especially that image, those eyes that seemed to be looking straight at mine, were stuck in our adolescent minds forever. I wonder if he still has that zine! (will ask him and report back).
 
-By 1994 I was finally at a place where I could become vegetarian. Also, I had been reading up a lot of stuff on this brand new thing called the internet, learning all I could from pages like the [Animal Rights FAQ](https://www.animal-rights.com/faqfile.html) ?”—and the Veganism FAQ (I coulnd't find the one I printed out and read from back to back, but here's [a decent one](https://www.veganeasy.org/resources/vegan-faqs/)) ?”—.
-It soon became pretty clear to me that the reason why any animal (including humans) should be free from opression - the capacity to suffer - demands, if we are being logical about it, not only the end of all unnecessary suffering of sentient beings (sentient = that can feel) but even the "usage" of said being. Just, whenever possible, leave them alone - that about sums it. And I mulled over it, and by 1995 I became vegan. 
+By 1994, I was finally at a place where I could become vegetarian. Also, I had been reading up a lot of stuff on this brand new thing called the internet, learning all I could from pages like the [Animal Rights FAQ](https://www.animal-rights.com/faqfile.html) ?ï¿½ï¿½and the Veganism FAQ (I couldn't find the one I printed out and read from back to back, but here's [a decent one](https://www.veganeasy.org/resources/vegan-faqs/)) ?ï¿½ï¿½.
+It soon became pretty clear to me that the reason why any animal (including humans) should be free from oppression - the capacity to suffer - demands, if we are being logical about it, not only the end of all unnecessary suffering of sentient beings (sentient = that can feel) but even the "usage" of said being. To just, whenever possible, leave them alone - that about sums it. And I mulled over it, and by 1995 I became vegan. 
 
-Then nine years after, by 2004, I was at a point in my life in which I was feeling I was making one too many sacrifices. I was in a monogamic relationship, but feeling that [wasn't really me]([Consensual Non-Monogamy](https://pedrohomero.com/2022/11/09/consensual-non-monogamy.html)) and I was craving all the egg-based pastries of the past, as well as cheese on pizza. So, I folded. I half-joked about it, saying that either monogamy or veganism had to be dropped, and I chose to drop the ethical choice, lapsing because of cravings and relationship pressure (that was probably more in my head than anything).
-Mind you, in the 90s and early 00s, it was A LOT harder to be vegan than it is now. I went on an interrail in 1996 to the British Isles and went down to Brighton specifically to buy Doc Martens boots from The Vegetarian Shoes! Also, foid choices were a lot more limited, and outside of Lisbon and Porto there were hardly any vegetarian restaurants (let alone any vegan one).
+Then nine years after, by 2004, I was at a point in my life in which I was feeling I was making one too many sacrifices. I was in a monogamic relationship, but feeling that [wasn't really me]({% post_url 2022-11-08-consensual-non-monogamy %}) and I was craving all the egg-based pastries of the past, as well as cheese on pizza. So, I folded. I half-joked about it, saying that either monogamy or veganism had to be dropped, and I chose to drop the ethical choice, lapsing because of cravings and relationship pressure (which were probably more in my head than anything).
+Mind you, in the 90s and early 00s, it was A LOT harder to be vegan than it is now. I went on an interrail in 1996 to the British Isles and went down to Brighton specifically to buy Doc Martens boots from The Vegetarian Shoes! Also, food choices were a lot more limited, and outside of Lisbon and Porto there were hardly any vegetarian restaurants (let alone any vegan one).
 
 So time passed, and the 00s became the 10s and the 10s became the 20s. All this time I kept firm in my idea that the ethics of animal rights (or more specifically, the ethics of sentient beings) were correct. I was, if you want, "vegan in my mind", a cop-out for not doing what was right.
 
 Earlier this year - I guess about 6 months ago, or so - I told my partner that I would become vegan again, sometime in the near future. And so it happened, 22 years after I lapsed.
 
-I guess the reason why I could no longer maintain a barrier between what I believed and how I was (not) living it, was the fact that I kept thinking about the concept of [total liberation](https://en.wikipedia.org/wiki/Total_liberation) ?”—. 
+I guess the reason why I could no longer maintain a barrier between what I believed and how I was (not) living it, was the fact that I kept thinking about the concept of [total liberation](https://en.wikipedia.org/wiki/Total_liberation) ?ï¿½ï¿½. 
 
-I'm an anarchist because I don't believe in (and oppose) any form of oppresion between humans (as individuals and societies) - even if I too oppress others (but I try not to!).
+I'm an anarchist because I don't believe in (and oppose) any form of oppression between humans (as individuals and societies) - even if I too oppress others (but I try not to!).
 
-I am collapse-aware because I understand the ways in which current human societies, since the beginning of the Industrial Revolution (but even more so since the 70s), have been exploiting the planet in ways that not only will bring about our doom as a species, eventually, but also how it's all based on opression of ecosystems. Animal liberation, the third arm of total liberation, follows the same logic. I simply had to apply it (again) to my life.
+I am collapse-aware because I understand the ways in which current human societies, since the beginning of the Industrial Revolution (but even more so since the 70s), have been exploiting the planet in ways that not only will eventually bring about our doom as a species, but also how it's all based on oppression of ecosystems.
 
-If you're unfamiiar with the definition of veganism, here it goes, straight from The Vegan Society (which I also visited back in 1996!):
+Animal liberation, the third arm of total liberation, follows the same logic. I simply had to apply it (again) to my life.
+
+
+
+---
+
+
+
+If you're unfamiliar with the definition of veganism, here it goes, straight from The Vegan Society (which I also visited back in 1996!):
 
 > *Veganism is a philosophy and way of living which seeks to excludeâ€”as
 >  far as is possible and practicableâ€”all forms of exploitation of, and 
@@ -42,7 +50,7 @@ And if you're unfamiliar with the ethics of animal rights (or sentient beings ri
 
 - I don't want to suffer and be exploited by others
 
-- The reason why I should have the right to not be made to suffer is my ability fo feel emotions, including pain
+- The reason why I should have the right to not be made to suffer is my ability to feel emotions, including pain
 
 - All beings that share the basic physical and neurological characteristics that allows them (curses them?) to suffer can feel suffering (pain, discomfort, etc.)
 
