@@ -29,7 +29,11 @@ I am collapse-aware because I understand the ways in which current human societi
 Animal liberation, the third arm of total liberation, follows the same logic. I simply had to apply it (again) to my life.
 
 
+
 ---
+
+
+
 
 
 If you're unfamiliar with the definition of veganism, here it goes, straight from The Vegan Society (which I also visited back in 1996!):
