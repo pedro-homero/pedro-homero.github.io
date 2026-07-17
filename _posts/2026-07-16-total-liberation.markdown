@@ -13,7 +13,8 @@ Let's go step by step. In 1992, my friend Joaquim Pedro showed me this scruffy-l
 By 1994, I was finally at a place where I could become vegetarian. Also, I had been reading up a lot of stuff on this brand new thing called the internet, learning all I could from pages like the [Animal Rights FAQ](https://www.animal-rights.com/faqfile.html) :link: and the Veganism FAQ (I couldn't find the one I printed out and read from back to back, but here's [a decent one](https://www.veganeasy.org/resources/vegan-faqs/)) :link:.
 It soon became pretty clear to me that the reason why any animal (including humans) should be free from oppression - the capacity to suffer - demands, if we are being logical about it, not only the end of all unnecessary suffering of sentient beings (sentient = that can feel) but even the "usage" of said being. To just, whenever possible, leave them alone - that about sums it. And I mulled over it, and by 1995 I became vegan.
 
-Then nine years after, by 2004, I was at a point in my life in which I was feeling I was making one too many sacrifices. I was in a monogamic relationship, but feeling that [wasn't really me]({% post_url 2022-11-08-consensual-non-monogamy %}) and I was craving all the egg-based pastries of the past, as well as cheese on pizza. So, I folded. I half-joked about it, saying that either monogamy or veganism had to be dropped, and I chose to drop the ethical choice, lapsing because of cravings and relationship pressure (which were probably more in my head than anything).
+Then nine years after, by 2004, I was at a point in my life in which I was feeling I was making one too many sacrifices. I was in a monogamic relationship, but feeling that [wasn't really me]({% post_url 2022-11-08-consensual-non-monogamy %}) and I was craving all the egg-based pastries of the past, as well as cheese on pizza. So, I folded. I half-joked about it, saying that either monogamy or veganism had to be dropped, and I chose to drop the ethical choice, lapsing because of cravings and relationship pressure (which were probably more in my head than anything). I downgraded to vegetarianism.
+
 Mind you, in the 90s and early 00s, it was A LOT harder to be vegan than it is now. I went on an interrail in 1996 to the British Isles and went down to Brighton specifically to buy Doc Martens boots from The Vegetarian Shoes! Also, food choices were a lot more limited, and outside of Lisbon and Porto there were hardly any vegetarian restaurants (let alone any vegan one).
 
 So time passed, and the 00s became the 10s and the 10s became the 20s. All this time I kept firm in my idea that the ethics of animal rights (or more specifically, the ethics of sentient beings) were correct. I was, if you want, "vegan in my mind", a cop-out for not doing what was right.
@@ -28,13 +29,7 @@ I am collapse-aware because I understand the ways in which current human societi
 
 Animal liberation, the third arm of total liberation, follows the same logic. I simply had to apply it (again) to my life.
 
-
-
 ---
-
-
-
-
 
 If you're unfamiliar with the definition of veganism, here it goes, straight from The Vegan Society (which I also visited back in 1996!):
 
