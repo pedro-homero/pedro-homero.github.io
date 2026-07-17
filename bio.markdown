@@ -30,7 +30,7 @@ So you want to know a bit more about me? Ok.
 
 * :earth_africa: ~~swinging between believing we're doomed vs. we can still avoid total climate disaster - ask me how I feel today~~! You know what? I've become a full-fledged collapsnick. We've passed the point of no-return. :shrug:
 
-* :seedling: vegan ([again after 22 years]({% post_url 2026-07-17-total-liberation %})
+* :seedling: vegan ([again after 22 years]({% post_url 2026-07-17-total-liberation %}))
 
 * :movie_camera::headphones: film and music enthusiast
 
